@@ -19,6 +19,8 @@ Acknowledgement:
 	- "billboard": Python module for Billboard's API (https://pypi.org/project/billboard.py/)
 
 	- Spotify, the company itself. For keeping a database of such in-depth details of every track in their library. And for exposing their API for the world to use.
+	
+	- Farooq Ansari - https://www.kaggle.com/theoverman. For providing the README, License and datasets.
 
 
 Attributes:
